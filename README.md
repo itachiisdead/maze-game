@@ -1,2 +1,2 @@
-# maze game
+# 2D maze game
  
