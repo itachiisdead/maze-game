@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class timer : MonoBehaviour
 {  //extra options choosing to countdown then gameover or to countup to check how much time it took to finish the puzzle

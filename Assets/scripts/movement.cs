@@ -10,9 +10,7 @@ public class movement : MonoBehaviour
     public static string havekey = "n";
     public static string havefriend = "n";
 
-    void Start()
-    {
-    }
+   
     void Update()
     {
         GetComponent<Rigidbody2D>().velocity = new Vector2(Input.GetAxis("Horizontal")*6, Input.GetAxis("Vertical")*6);
